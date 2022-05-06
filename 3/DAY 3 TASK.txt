@@ -1,0 +1,62 @@
+DAY:3 IN MARGE DAY 1 ,2 ,3 THEN CREATE 1 BIG PROJECT 
+DAY :1
+1.) h1 to h6 tag
+2.) <!--font required Italic tag's like 1.)Italics 2.) Emphasis
+ 3.)Citetion 4.)Defination
+3.)<!-- font required underline tag's like 1) underline 2) Insertion -->
+4.)<!-- font remove /deletesome word then used tag's like
+ 1) strike  2) Delete -->
+5.)<!-- span /div used  difference -->
+6.)Paragraph
+7.)Blockquote
+8.)<!--sub and super -->
+9.)<!--abbr&acronym -->
+10.)<!--&nbsp; and pre difference -->
+11.)BOLD ,STRONG TAG
+
+DAY : 2
+				
+* LIST :-
+1.) UNORDER LIST 
+2.) ORDER LIST
+3.) DEFINATION LIST
+4.) NESTED lIST 
+* LINK :-
+5.) USING LINK (href)MOVE ON ANOTHER PAGE 
+* TABLE :-
+6.) YOU HAVE TO CREATE YOUR TIME TABLE 
+7.) ROWSPAN & COLSPAN  USING CREATE TABLE 
+*FORMS
+8.)1.chekbox
+9.)2.fieldset
+10.)3.multipleing
+11.)4.Radio Button
+12.)5.selection
+13.)6.text button
+14.)7.textarea
+* MICRO PROJECT  :-
+15.)MERGE ALL CONTAIN AND THEN YOU HAVE TO CREATE 
+YOUR FORM WITH TABLE WITH LIST 
+* EXTRA MARKUP:-
+16.) EXTRA MARKUP (AUDIO)
+17.) EXTRA MARKUP (VIDEO)
+18.) EXTRA MARKUP (IMAGE)
+19.) EXTRA MARKUP (GOOGLE MAP)
+20.) EXTRA MARKUP (YOUTUBE VIDEO)
+* MICRO PROJECT :-
+21.)USING ALL TAGES CREATE PROJECT.
+
+DAY :3
+1.) HOVER ELEMENT 
+*Mark up languages.
+2)XML - Extensible Markup Language.
+3.)SGML - Standard Generalized Markup Language.
+4.)HTML - Hypertext Markup Language.
+5.)XHTML - Extensible Hypertext Markup Language.
+* VISUAL STUDIO CODE INSTALLATION
+* About W3.org and its web page validator.
+
+ALL CONTAINT USING CREATE 1 BIG PROJECT 
+
+ 
+

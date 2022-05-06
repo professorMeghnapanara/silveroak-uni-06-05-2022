@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Hover Element </title>
+		<style type="text/css">
+			#MainUL li ul li{display:none;}
+			#MainUL li:hover ul li{display:block;}
+			#MainUL li:hover ul li ul li{display:none;}
+			#MainUL li ul li:hover ul li{display:block;}
+			#MainUL li ul li:hover ul li ul li{display:none;}
+			#MainUL li ul li ul li:hover ul li{display:block;}
+		</style>
+		
+	</head>
+	<body>
+		
+		<ul id="MainUL">
+			<li>GUJRATI
+				<ul>
+					<li>LESSON
+						<ul>
+							<li>LEKHAN</li>
+							<li>PATHAN
+								<ul>
+									<li>HASHYA</li>
+									<li>SASTRA</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li>KAVYA</li>
+					<li>VYAKRAN</li>
+					<li>WRITING</li>
+				</ul>
+			</li>
+			<li>HINDI</li>
+			<li>SANASKRIT
+				<ul>
+					<li>LEKHAN</li>
+					<li>GAHANAN</li>
+				</ul>
+			</li>
+			<li>VYAKHYAN</li>
+			<li>PATH
+				<ul>
+					<li>1</li>
+					<li>2</li>
+					<li>3</li>
+				</ul>
+			</li>
+		</ul>
+		
+	</body>
+</html>
